@@ -6,5 +6,6 @@ public class first{
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         System.out.println("Number = "+number);
+        sc.close();
     }
 }

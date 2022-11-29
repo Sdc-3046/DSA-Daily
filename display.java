@@ -6,8 +6,9 @@ public class display {
         double b = sc.nextDouble();
         int a = sc.nextInt();
         String str = sc.nextLine();
-        System.out.println(b);
+        System.out.println(a+b);
         System.out.println();
         System.out.println(str);
+        sc.close();
     }    
 }

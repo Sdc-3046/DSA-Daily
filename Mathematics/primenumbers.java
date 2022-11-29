@@ -34,7 +34,7 @@ public class primenumbers {
                 k++;
             }
         }
-        int test = 81;
+        int test = 53;
         if(arr[test]==true){
             System.out.println("Number is prime");
         }
